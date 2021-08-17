@@ -5,3 +5,8 @@ The operating system manages the ram so that you may switch between different ap
 the operating system taking information from the GUI and starts an application. 
 In Andriod the GUI is the visible pictures on the screen.
 Unlike Windows in the defult configuration of the Android OS there is no DUI where you can only type commands
+
+The operating system is in charge of file management.
+such as creating, copying, deleting, finding and moving files.
+it does this after reciving instructions from the user then location the data on the storage device. 
+After finding the data it is sent to the CPU to be Processed
