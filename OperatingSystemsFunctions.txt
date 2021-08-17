@@ -1,0 +1,3 @@
+Andriod is an Operating system that runs on a veriaty of devices. 
+One fuction it has is managing the ram of your device and alocating it to programs that are running. 
+The operating system manages the ram so that you may switch between different application at will without haveing to stat them up again.
