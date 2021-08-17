@@ -1,3 +1,7 @@
 Andriod is an Operating system that runs on a veriaty of devices. 
 One fuction it has is managing the ram of your device and alocating it to programs that are running. 
 The operating system manages the ram so that you may switch between different application at will without haveing to stat them up again.
+
+the operating system taking information from the GUI and starts an application. 
+In Andriod the GUI is the visible pictures on the screen.
+Unlike Windows in the defult configuration of the Android OS there is no DUI where you can only type commands
